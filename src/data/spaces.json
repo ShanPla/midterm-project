@@ -52,5 +52,131 @@
     ],
     "hours": "10:00 AM - 7:00 PM",
     "time_slots": ["Morning Session (10am-2pm)", "Afternoon Session (2pm-6pm)"]
+  },
+  {
+    "id": 4,
+    "name": "Davao WorkSpot",
+    "location": "Davao City",
+    "price": 350,
+    "main_image": "/assets/space-4.jpg",
+    "images": ["/assets/space4_a.jpg"],
+    "description": "A modern workspace with a balance of quiet areas and collaborative zones, perfect for freelancers and startups.",
+    "amenities": [
+      "Standing Desks",
+      "Cafe Lounge",
+      "High-speed Internet",
+      "Onsite Parking",
+      "Lockers"
+    ],
+    "hours": "8:00 AM - 10:00 PM",
+    "time_slots": ["8am - 12pm", "1pm - 5pm", "6pm - 10pm"]
+  },
+  {
+    "id": 5,
+    "name": "Baguio Study Loft",
+    "location": "Baguio City",
+    "price": 200,
+    "main_image": "/assets/space-5.jpg",
+    "images": ["/assets/space5_a.jpg", "/assets/space5_b.jpg"],
+    "description": "Nestled in the cool climate of Baguio, this loft-style study area provides a refreshing atmosphere for focused work.",
+    "amenities": [
+      "Mountain View",
+      "Wi-Fi",
+      "Heated Rooms",
+      "Snack Bar",
+      "Whiteboards"
+    ],
+    "hours": "7:00 AM - 9:00 PM",
+    "time_slots": ["7am - 11am", "11am - 3pm", "3pm - 7pm"]
+  },
+  {
+    "id": 6,
+    "name": "Iloilo Innovation Hub",
+    "location": "Iloilo City",
+    "price": 400,
+    "main_image": "/assets/space-6.webp",
+    "images": ["/assets/space6_a.jpg"],
+    "description": "A hub for innovators and entrepreneurs, designed with modern interiors and equipped with collaborative tools.",
+    "amenities": [
+      "Smart Boards",
+      "Dedicated Desks",
+      "Conference Rooms",
+      "Printing Services",
+      "24/7 Security"
+    ],
+    "hours": "8:00 AM - 8:00 PM",
+    "time_slots": ["8am - 12pm", "12pm - 4pm", "4pm - 8pm"]
+  },
+  {
+    "id": 7,
+    "name": "Ortigas Productivity Hub",
+    "location": "Pasig City",
+    "price": 450,
+    "main_image": "/assets/space-7.webp",
+    "images": ["/assets/space7_a.avif", "/assets/space7_b.jpg"],
+    "description": "A high-rise co-working hub offering a stunning skyline view of Metro Manila, great for professionals and corporate teams.",
+    "amenities": [
+      "Sky Lounge",
+      "Pantry",
+      "Wi-Fi",
+      "Private Cabins",
+      "Ergonomic Desks"
+    ],
+    "hours": "Open 24/7",
+    "time_slots": ["Day Pass (9am-6pm)", "Night Pass (6pm-3am)"]
+  },
+  {
+    "id": 8,
+    "name": "Manila Study Lounge",
+    "location": "Manila City",
+    "price": 300,
+    "main_image": "/assets/space-8.jpg",
+    "images": ["/assets/space8_a.jpg"],
+    "description": "A casual and relaxing study lounge for students and freelancers who prefer a laid-back vibe.",
+    "amenities": [
+      "Free Coffee",
+      "Board Games Area",
+      "Wi-Fi",
+      "Power Outlets",
+      "Community Library"
+    ],
+    "hours": "9:00 AM - 11:00 PM",
+    "time_slots": ["9am - 1pm", "1pm - 5pm", "5pm - 11pm"]
+  },
+  {
+    "id": 9,
+    "name": "Taguig Collab Space",
+    "location": "Taguig City",
+    "price": 550,
+    "main_image": "/assets/space-9.webp",
+    "images": ["/assets/space9_a.webp"],
+    "description": "A premium collaboration space ideal for startups, offering both open desks and private rooms.",
+    "amenities": [
+      "Startup Networking Events",
+      "Private Offices",
+      "Ultra-fast Wi-Fi",
+      "Cafeteria",
+      "Tech Support"
+    ],
+    "hours": "8:00 AM - 12:00 AM",
+    "time_slots": ["Morning Shift (8am-2pm)", "Afternoon Shift (2pm-8pm)", "Evening Shift (8pm-12am)"]
+  },
+  {
+    "id": 10,
+    "name": "Subic Bay Work Cafe",
+    "location": "Subic Bay",
+    "price": 280,
+    "main_image": "/assets/space-10.jpg",
+    "images": ["/assets/space10_a.jpg", "/assets/space10_b.jpg"],
+    "description": "A beachside work cafe where you can enjoy the sea breeze while working on your projects.",
+    "amenities": [
+      "Beachfront View",
+      "Outdoor Seating",
+      "Wi-Fi",
+      "Power Outlets",
+      "Cafe Menu"
+    ],
+    "hours": "7:00 AM - 10:00 PM",
+    "time_slots": ["7am - 12pm", "12pm - 5pm", "5pm - 10pm"]
   }
 ]
