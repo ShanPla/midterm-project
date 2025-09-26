@@ -1,0 +1,55 @@
+body {
+  background-color: #f8f9fa;
+  background-image: url("/assets/bg.jpg");
+  background-size: cover;       /* makes it fill the screen */
+  background-repeat: no-repeat; /* prevents tiling */
+  background-attachment: fixed; /* keeps it fixed on scroll */
+}
+
+.navbar {
+  background-color: #0b4220 !important;
+}
+
+.navbar .nav-link,
+.navbar-brand {
+  color: #ffffff !important; /* white text */
+}
+
+.navbar .nav-link:hover {
+  color: #d4edda !important; /* light green on hover */
+}
+
+.navbar .btn {
+  background-color: #ffffff;
+  color: #23623b;
+  border: none;
+}
+
+.navbar .btn:hover {
+  background-color: #d4edda;
+  color: #1b4d2e;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.gallery-thumb {
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.gallery-thumb:hover {
+  transform: scale(1.05);
+}
+
+.page-Card {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;   /* light gray border */
+  border-radius: 0.5rem;       /* rounded corners */
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
