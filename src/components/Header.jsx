@@ -20,9 +20,16 @@ export default function Header() {
           )}
         </ul>
         {user ? (
-          <button className="btn btn-light" onClick={logout}>Logout</button>
+          <>
+            <span className="me-3 text-white">Welcome, Guest</span>
+            <button className="btn btn-light" onClick={logout}>
+              Logout
+            </button>
+          </>
         ) : (
-          <button className="btn btn-light" onClick={login}>Login</button>
+          <button className="btn btn-light" onClick={login}>
+            Login
+          </button>
         )}
       </div>
     </nav>
